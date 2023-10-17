@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f38881d.css",
+    "main.js": "/static/js/main.0517c51c.js",
+    "static/js/738.b3e16a6b.chunk.js": "/static/js/738.b3e16a6b.chunk.js",
+    "static/js/372.e7845969.chunk.js": "/static/js/372.e7845969.chunk.js",
+    "static/js/856.6bce4317.chunk.js": "/static/js/856.6bce4317.chunk.js",
+    "static/js/851.2db35a03.chunk.js": "/static/js/851.2db35a03.chunk.js",
+    "static/js/22.9a3b7886.chunk.js": "/static/js/22.9a3b7886.chunk.js",
+    "static/js/272.28963d8c.chunk.js": "/static/js/272.28963d8c.chunk.js",
+    "static/js/841.3c9266c3.chunk.js": "/static/js/841.3c9266c3.chunk.js",
+    "static/js/186.cbec0ac4.chunk.js": "/static/js/186.cbec0ac4.chunk.js",
+    "static/js/377.2f3a9bd9.chunk.js": "/static/js/377.2f3a9bd9.chunk.js",
+    "static/media/arccon-logo.png": "/static/media/arccon-logo.e1e32cb49186f14cafdd.png",
+    "static/media/arccon-logo-no-text.png": "/static/media/arccon-logo-no-text.193edf933140c443e976.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.3f38881d.css.map": "/static/css/main.3f38881d.css.map",
+    "main.0517c51c.js.map": "/static/js/main.0517c51c.js.map",
+    "738.b3e16a6b.chunk.js.map": "/static/js/738.b3e16a6b.chunk.js.map",
+    "372.e7845969.chunk.js.map": "/static/js/372.e7845969.chunk.js.map",
+    "856.6bce4317.chunk.js.map": "/static/js/856.6bce4317.chunk.js.map",
+    "851.2db35a03.chunk.js.map": "/static/js/851.2db35a03.chunk.js.map",
+    "22.9a3b7886.chunk.js.map": "/static/js/22.9a3b7886.chunk.js.map",
+    "272.28963d8c.chunk.js.map": "/static/js/272.28963d8c.chunk.js.map",
+    "841.3c9266c3.chunk.js.map": "/static/js/841.3c9266c3.chunk.js.map",
+    "186.cbec0ac4.chunk.js.map": "/static/js/186.cbec0ac4.chunk.js.map",
+    "377.2f3a9bd9.chunk.js.map": "/static/js/377.2f3a9bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f38881d.css",
+    "static/js/main.0517c51c.js"
+  ]
+}
